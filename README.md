@@ -1,5 +1,7 @@
 # E-Commerce Supply Chain & Regional Logistics Analytics
-![Dashboard View](dashboard.png)
+![Dashboard View](<img width="1326" height="741" alt="Screenshot 2026-08-30 144611" src="https://github.com/user-attachments/assets/17e8b27c-4ed2-4738-9822-9ee4db55ed14" />
+
+)
 ## Executive Summary
 This project analyzes 100k+ Brazilian e-commerce orders (Olist dataset) to identify logistics bottlenecks and regional fulfillment failures. By engineering SQL views in PostgreSQL and visualizing metrics in Power BI, the analysis uncovered critical transit delays on inter-state shipping routes despite a stable national baseline.
 
